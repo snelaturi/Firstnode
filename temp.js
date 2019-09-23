@@ -4,4 +4,4 @@ for( var i=0 ;i<10 ; i++){
     console.log('value - >', i);
 }
 
-console.log('called twice!');
+console.log('build triggered automatically from git!');
